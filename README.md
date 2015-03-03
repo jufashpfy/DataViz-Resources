@@ -3,7 +3,7 @@ Public resources for DataViz
 
 ## Overviews and theory
 - [Edward Tufte's site](http://www.edwardtufte.com/tufte/), including the 'Teaching to See' 37 minute video
-- 
+ 
 ## Dashing Dashboards and Data Visulaizations
 - [Codepen Stats](http://codepen.io/stats/) - who need graphs? Graphs are for comparisons (deltas), not absolutes
 
