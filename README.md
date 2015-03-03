@@ -1,4 +1,4 @@
-# DataViz-Resources
+# Public DataViz Resources
 Public resources for DataViz
 
 ## Overviews and Theory
