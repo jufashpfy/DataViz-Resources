@@ -16,6 +16,7 @@ Public resources for DataViz
 ## Quick reads
 - [Slideshare on chart choosing and Best Practices](http://www.slideshare.net/idigdata/data-visualization-best-practices-2013) by Microsoftian: 
 - [New York Times on Infographics](http://learning.blogs.nytimes.com/2014/08/29/reader-idea-from-article-to-infographic-translating-information-about-sneakerheads/?_r=0) This specific case study follows how their infographic team goes from idea to visualization in coordination with students. Great to understand the internal process of delivering a world class viz product that works with the audience
+- [Tableau's Library of Whitepapers](http://www.tableau.com/learn/whitepapers) A collection of Top-X trends and practices.
  
 ## Live Examples of the Craft
 - [Codepen Stats](http://codepen.io/stats/) - who need graphs? Graphs are for comparisons (deltas), not absolutes
