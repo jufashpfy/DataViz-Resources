@@ -26,6 +26,6 @@ Public resources for DataViz
 - D3 Pie with animated update [fiddle](http://jsfiddle.net/KsFPh/) example of tie ins for jqueryUI for data changes
 - Date array series generator - to make UTC timestamp series strings and arrays [fiddle](http://jsfiddle.net/5dsb9ocj/)
 
-## The numbers, crunched
+## Insights into data
 - [Cameron Davidson Pilon's Probabilistic Programming and Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) Accessible introduction Bayesien inference and Python introduction with code samples
-
+- [Data Origami](http://dataorigami.net/) - CDP's Data analysis screencasts
