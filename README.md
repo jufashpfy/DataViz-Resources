@@ -6,6 +6,7 @@ Public resources for DataViz
 - [Mike Bostocks site](http://bost.ocks.org/mike/) si the author of D3. With making a core library of the web comes a lot of domain knowledge
 - [Ben Fry's site](http://benfry.com/projects/) really looks for different viz from whats out there. 
 - [Joy of stats 60 minute video](https://www.youtube.com/watch?v=g9nvLqLM9Y0) This guy is the Carl Sagan of dataviz for public consumption and understanding, focus on detecting social trends through graph animation
+- [Nicholas Felton's visualizations of his personal life](http://feltron.com/) and [his tumblr](http://feltron.tumblr.com/)
 
 
 ## Foundations
@@ -27,5 +28,5 @@ Public resources for DataViz
 - Date array series generator - to make UTC timestamp series strings and arrays [fiddle](http://jsfiddle.net/5dsb9ocj/)
 
 ## Insights into data
-- [Cameron Davidson Pilon's Probabilistic Programming and Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) Accessible introduction Bayesien inference and Python introduction with code samples
+- [Cameron Davidson Pilon's Probabilistic Programming and Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) If you just need the idea of the kinds of probability and uncertainty there are in data, read the introduction
 - [Data Origami](http://dataorigami.net/) - CDP's Data analysis screencasts
