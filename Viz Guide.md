@@ -56,9 +56,32 @@ The spectrum of inquiry - measuring the questions asked of data - depth, insight
 The spectrum of data infeeds - from event series on one variable through composite data of multiple variables, windowed averages, forecasts. 
 The spectrum of data noise - what is the signal to noise ratio? What is the randomness of the data? 
 
-##### From Data to Question
+##### From Data Space to Question
 
-##### From Question to Composite
+##### From Question to Answer Space
+ - what are the back end requirements? 
+ - does the question fit the existing quesry tools? 
+ - do we need to extend the query tools?
+ - do we need to compare or make multiple queries then return their results?
+ - do we need to preprocess the response to get aggregate numbers (averages, comparisons)
+ - do we need to maintain an intermediate store of calculations? i.e. a calculated field pushed back into the data
+ - how resource intensive is the query? 
+ - how often must the query be made? can it be split so heavier parts are done less often and their results stored?
+ - does user interaction require state storage somewhere?
+ - how much of data processing should or can be handled on the client side?
+
+##### From Question to Story
+ - What is the sequene of presentation?
+ - Who is the Audience?
+ - Is there a plot?
+ - How to do queue and handle interaction? Generate some sample work flows and interaction state diagrams
+ - What message groups do we imply or assume with this data->question->answer mapping? For example: We want to tell the story of sales trends over the last week - the may be increasing decreasing, spiked, moisy, or nil. Role play the result and the audience to determine most common types of interactions with the data
+ - What actions is the audience is expected to take at the beginning middle and end of the story? Do we facilitate this with hints or persistant options?
+ - Does the Story clarify the data through the questions and answer? Is there enough context and familiarity (training) for the user to act?
+ - Is this a sandbox? i.e. how much of the plot is choose your own adventure, where the user explored the data space by modifying the question? Are there meningful paths we expect, or primarily edge cases that confuse?
+
+
+##### From Story to Composite
 
 ##### From Composite to Implementation
  - there is a temptation to composite the best looking data for the viz. 'Best Looking Data' may be subconsciously chosen
