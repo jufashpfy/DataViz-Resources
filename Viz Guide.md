@@ -56,3 +56,20 @@ The spectrum of inquiry - measuring the questions asked of data - depth, insight
 The spectrum of data infeeds - from event series on one variable through composite data of multiple variables, windowed averages, forecasts. 
 The spectrum of data noise - what is the signal to noise ratio? What is the randomness of the data? 
 
+##### From Data to Question
+
+##### From Question to Composite
+
+##### From Composite to Implementation
+###### A few gotchas when building a viz on a composite:
+ - there is a temptation to composite the best looking data for the viz
+ - Composite edge cases, including no data, 0-value data, sparse data, noisy data (at least 1 order of magnitude), uncorellated data, different timescales
+ - axis marks
+ - label lengths: composite extremely long and short label lengths - what is the scenario for truncation?
+ - screens and sizes: composite for each platform's edge cases and common cases
+ - accessibility - Aria support, Colour blindness, contrast, browser magnification
+ - spacing, white-space, padding - how does this react and how can it be specified?
+ - what are optional settings to alter the viz and accomodate different uses?
+ - what assumptions does the implementation make about the container and the data?
+ - what are the no-data error states?
+
