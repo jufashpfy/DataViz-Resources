@@ -25,6 +25,18 @@
 - Grouping data - when and why
 - Ratios 
 
+##### Presentations
+- Phrases
+- Single numbers
+- Tables
+- Line
+- Bar
+- Circular
+- Display for comparison
+- Adding statistical information - trends, averages, projections
+- The anthropomorphic / analogous presentation (symbols and icons)
+- onboarding and training users into an interface
+
 ##### The audience
 - Visual leverages powerful built-in human tools: [the Gestault of Visual Perception](http://www.smashingmagazine.com/2014/03/28/design-principles-visual-perception-and-the-principles-of-gestalt/)
 - Motion is a key part of human perception, therefore animation should be carefully considered for power and relavance
@@ -34,4 +46,13 @@
 - Noisy data is a problem with a small data set - the user will pick out patterns that are not really there in noisy data [See Dan Kahneman's Representation Heuristic and the illusion of patterns](http://en.wikipedia.org/wiki/Representativeness_heuristic)
 - Humans take judgement shortcuts and draw conclusions irrationally for the most part. We blow out of proportion edge cases and exceptions and overestimate their effects. Are predictive mechanisms are err on the side of overreaction not the latest data. We need to take this into account the same way we take into account human perception for other interface design elements
 
+##### The Platforms
+The spectrum of screen size
+The spectrum of accessibility -not just screen contrast or standards , but accessibility in the broader context: how successfully is meaning and insight conveyed for a specific audience - The Communication Pipeline
+The spectrum of interactivity resolution - pixels to fingertips to swipes
+The spectrum of query - Who forms the questions? How do they do that? How do they persist their questions over time and data sets?
+The spectrum of audience - how familiar are they with the data and context
+The spectrum of inquiry - measuring the questions asked of data - depth, insightfulness, granularity, contrast, confidence
+The spectrum of data infeeds - from event series on one variable through composite data of multiple variables, windowed averages, forecasts. 
+The spectrum of data noise - what is the signal to noise ratio? What is the randomness of the data? 
 
