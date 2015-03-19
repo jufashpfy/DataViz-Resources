@@ -61,8 +61,8 @@ The spectrum of data noise - what is the signal to noise ratio? What is the rand
 ##### From Question to Composite
 
 ##### From Composite to Implementation
-###### A few gotchas when building a viz on a composite:
- - there is a temptation to composite the best looking data for the viz
+ - there is a temptation to composite the best looking data for the viz. 'Best Looking Data' may be subconsciously chosen
+ - What is the reality of the data? Is there a typical case? If not, how many data scenarios should be composited? Every data range has 2 edge cases, and most viz has two data ranges, so at least 4 edge cases may have to be considered to cover a 2-dimensional "data terrain"
  - Composite edge cases, including no data, 0-value data, sparse data, noisy data (at least 1 order of magnitude), uncorellated data, different timescales
  - axis marks - how will they adapt in different ranges and container sizes?
  - label lengths: composite extremely long and short label lengths - what is the scenario for truncation or abbreviation?
