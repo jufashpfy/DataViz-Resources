@@ -64,12 +64,15 @@ The spectrum of data noise - what is the signal to noise ratio? What is the rand
 ###### A few gotchas when building a viz on a composite:
  - there is a temptation to composite the best looking data for the viz
  - Composite edge cases, including no data, 0-value data, sparse data, noisy data (at least 1 order of magnitude), uncorellated data, different timescales
- - axis marks
- - label lengths: composite extremely long and short label lengths - what is the scenario for truncation?
+ - axis marks - how will they adapt in different ranges and container sizes?
+ - label lengths: composite extremely long and short label lengths - what is the scenario for truncation or abbreviation?
  - screens and sizes: composite for each platform's edge cases and common cases
  - accessibility - Aria support, Colour blindness, contrast, browser magnification
  - spacing, white-space, padding - how does this react and how can it be specified?
  - what are optional settings to alter the viz and accomodate different uses?
  - what assumptions does the implementation make about the container and the data?
  - what are the no-data error states?
+ - What are the intro animations
+ - what are the transition of data animations?
+ - what are the possible interactions (touch, rollover, scrub, zoom)
 
