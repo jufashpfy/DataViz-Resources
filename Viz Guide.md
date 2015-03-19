@@ -37,7 +37,7 @@
 - The anthropomorphic / analogous presentation (symbols and icons)
 - onboarding and training users into an interface
 
-##### The audience
+##### The Audience
 - Visual leverages powerful built-in human tools: [the Gestault of Visual Perception](http://www.smashingmagazine.com/2014/03/28/design-principles-visual-perception-and-the-principles-of-gestalt/)
 - Motion is a key part of human perception, therefore animation should be carefully considered for power and relavance
 - People notive differences and force patterns onto data, especially visual data. This pattern recognition - especially when there is no pattern - has to be accounted for
