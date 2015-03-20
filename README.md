@@ -1,7 +1,7 @@
 # Public DataViz Resources
 Public resources for DataViz
 
-## The gods of Viz
+## Practitioners
 - [Edward Tufte's site](http://www.edwardtufte.com/tufte/), including the 'Teaching to See' 37 minute video
 - [Mike Bostocks site](http://bost.ocks.org/mike/) si the author of D3. With making a core library of the web comes a lot of domain knowledge
 - [Ben Fry's site](http://benfry.com/projects/) really looks for different viz from whats out there. 
