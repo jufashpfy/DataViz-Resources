@@ -98,4 +98,6 @@ The spectrum of data noise - what is the signal to noise ratio? What is the rand
  - What are the intro animations
  - what are the transition of data animations?
  - what are the possible interactions (touch, rollover, scrub, zoom)
+ - Are you data biased? What if negative, zero, MAX_FLOAT or undefined data make it into the data stream? how will your ranges and minima react? 
+
 
