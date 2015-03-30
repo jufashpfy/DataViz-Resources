@@ -57,6 +57,7 @@ The spectrum of data infeeds - from event series on one variable through composi
 The spectrum of data noise - what is the signal to noise ratio? What is the randomness of the data? 
 
 ##### From Data Space to Question
+ - Recursion and nesting in viz: what data is primary and what data is secondary? i.e. cats in country by color?
 
 ##### From Question to Answer Space
  - what are the back end requirements? 
@@ -99,5 +100,6 @@ The spectrum of data noise - what is the signal to noise ratio? What is the rand
  - what are the transition of data animations?
  - what are the possible interactions (touch, rollover, scrub, zoom)
  - Are you data biased? What if negative, zero, MAX_FLOAT or undefined data make it into the data stream? how will your ranges and minima react? 
+ -  How will recursive data be displayed? Given that 2 data axes can generally be rendered clearly, how will additional dimensions and groupings be represented or hidden?
 
 
