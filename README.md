@@ -31,8 +31,3 @@ Public resources for DataViz
 ## Insights into data
 - [Cameron Davidson Pilon's Probabilistic Programming and Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) If you just need the idea of the kinds of probability and uncertainty there are in data, read the introduction
 - [Data Origami](http://dataorigami.net/) - CDP's Data analysis screencasts
-
-Some behavior sets for review:
-http://www.gfycat.com/UnnaturalBothBream 
-
-
