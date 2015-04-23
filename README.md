@@ -19,7 +19,8 @@ Public resources for DataViz
 - [New York Times on Infographics](http://learning.blogs.nytimes.com/2014/08/29/reader-idea-from-article-to-infographic-translating-information-about-sneakerheads/?_r=0) This specific case study follows how their infographic team goes from idea to visualization in coordination with students. Great to understand the internal process of delivering a world class viz product that works with the audience
 - [Tableau's Library of Whitepapers](http://www.tableau.com/learn/whitepapers) (requires Tableau Account) A collection of Top-X trends and practices.
 - [Stats Can "Using Utilization" page](http://www.statcan.gc.ca/edu/power-pouvoir/ch9/using-utilisation/5214829-eng.htm) - skip to the Four Guidelines
- 
+- [UW papers on their data viz projects](http://idl.cs.washington.edu/)
+
 ## Live Examples of the Craft
 - [Codepen Stats](http://codepen.io/stats/) - who need graphs? Graphs are for comparisons (deltas), not absolutes
 - [Bl.oc.ks](http://bl.ocks.org/mbostock) site from The Boostock runs and displays his (and your) gists of D3
@@ -27,6 +28,7 @@ Public resources for DataViz
 ## Code samples and generators
 - D3 Pie with animated update [fiddle](http://jsfiddle.net/KsFPh/) example of tie ins for jqueryUI for data changes
 - Date array series generator - to make UTC timestamp series strings and arrays [fiddle](http://jsfiddle.net/5dsb9ocj/)
+- [UW Interactive Data Lab](https://github.com/uwdata) vertial toolchain for visual design of visual data
 
 ## Insights into data
 - [Cameron Davidson Pilon's Probabilistic Programming and Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) If you just need the idea of the kinds of probability and uncertainty there are in data, read the introduction
